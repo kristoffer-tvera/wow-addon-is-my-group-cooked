@@ -1,11 +1,7 @@
-local addonName, ns = ...
-
 -------------------------------
 -- Config
 -------------------------------
 local LEAVE_MESSAGES = {"Goodbye", "Have a nice evening", "I have to go, sorry!"}
-
-local EQUIP_SLOTS = {1, 2, 3, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17}
 
 local inspectQueue = {}
 local ilvlCache = {} -- [guid] = ilvl number
