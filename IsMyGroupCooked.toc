@@ -1,5 +1,5 @@
 ## Interface: 120005, 120007, 120100
-## Version: v12.0.2
+## Version: v12.0.7
 ## Title: IsMyGroupCooked
 ## Notes: Shows your party with item levels when you join a group
 ## SavedVariables: 
