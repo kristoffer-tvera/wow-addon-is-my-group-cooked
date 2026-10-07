@@ -1,8 +1,8 @@
 ## Interface: 120005, 120007, 120100
-## Version: v12.0.7
+## Version: v12.0.8
 ## Title: IsMyGroupCooked
 ## Notes: Shows your party with item levels when you join a group
-## SavedVariables: 
+## SavedVariables: IsMyGroupCookedDB
 
 ## Category: Dungeons & Raids
 ## Category-deDE: Dungeons & Schlachtzüge
